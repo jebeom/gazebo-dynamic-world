@@ -1,5 +1,7 @@
 # gazebo-dynamic-world
+![dynamic_obstacle-2024-05-22_16 26 17](https://github.com/jebeom/gazebo-dynamic-world/assets/107978090/ea3650c6-9c1c-442c-a56f-2e8b920ae83f)
 
+## Method
 You can control how the obstacle moves (where and how much it moves over time) by modifying the contents of the animated_box_1.cc file.
 
 Then, your CMakeLists.txt file should include the following content. 

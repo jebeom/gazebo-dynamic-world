@@ -1,5 +1,6 @@
 # gazebo-dynamic-world
-![dynamic_obstacle-2024-05-22_16 26 17-ezgif com-video-to-gif-converter](https://github.com/jebeom/gazebo-dynamic-world/assets/107978090/3ffd403f-0a5a-4b6a-9ba5-0b548715a54d)
+![dynamic_obstacle-2024-05-22_16 26 17-ezgif com-video-to-gif-converter (1)](https://github.com/jebeom/gazebo-dynamic-world/assets/107978090/105801d5-743c-411e-b844-4a36476f6dd4)
+
 
 ## Method
 You can control how the obstacle moves (where and how much it moves over time) by modifying the contents of the animated_box_1.cc file.

@@ -10,9 +10,9 @@ target_link_libraries(animated_box_1 ${GAZEBO_LIBRARIES})
 If you have renamed the **animated_box_1.cc file** or added a **new animated_box.cc file**, you **need to update the CMakeLists.txt file** accordingly.
 
 
-After that, build the project. You will find the libanimated_box_1.so file in the build directory.
+After that, build the project. You will find the libanimated_box_1.so file in the **build directory**.
 
-Finally, You can implement a dynamically moving box in Gazebo by adding the following code to your Gazebo world file.
+Finally, You can implement a dynamically moving box in Gazebo by adding the following code to your Gazebo world file.       (ex: pasillo_cextension.world file)
 
 ```
    </model>
